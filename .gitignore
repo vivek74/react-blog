@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules/
+client/
+yarn.lock
+yarn-error.log
+
+
